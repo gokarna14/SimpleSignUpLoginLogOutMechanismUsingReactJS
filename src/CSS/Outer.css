@@ -1,0 +1,10 @@
+.mainTitle {
+    background-color: #4267B2;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.titleLine {
+    text-align: center;
+    font-size: 100px;
+}
